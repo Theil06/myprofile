@@ -1,5 +1,5 @@
 /* Colors and fonts */ 
-.body { 
+body { 
  	background: rgb(230, 230, 230); 
  	color: rgb(50, 50, 50); 
  	font-family: 'Lora', serif; 
@@ -13,8 +13,8 @@
  	font-size: 32px; 
  } 
  h2 { 
-  color: #7ECE90; f
-  ont-size: 24px; 
+  color: #7ECE90; 
+  font-size: 24px; 
   font-weight: lighter; 
  ｝ 
  a { 
